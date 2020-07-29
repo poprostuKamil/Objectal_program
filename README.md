@@ -1,4 +1,4 @@
-W tym projekcie udostępniam dwa programy napisane w języku C#, które pisałem na zaliczenie na pierwszym roku studiów. Są to zadania z "Laboratorium z przedmiotu Programowanie obiektowe - zestaw 02".
+W tym projekcie udostępniam programy napisane w języku C#, które pisałem na zaliczenie na pierwszym roku studiów. Są to zadania z "Laboratorium z przedmiotu Programowanie obiektowe - zestaw 02".
 Wytyczne do zadania pierwszego:
 - Aplikacja powinna zawierać klasy zaimplementowane zgodnie z zamieszczonym poniżej diagramem klas.;
 - Metody „WypiszInfo” powinny wypisywać na konsoli informacje na temat wartości wszystkich pól obiektów;
